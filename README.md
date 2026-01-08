@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I’m Subhuman Dash
+About Me
 
-<!--
-**subhumandash-dot/subhumandash-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated and disciplined individual with a strong interest in technology, data, and problem-solving. I focus on continuous improvement—both professionally and personally—and enjoy working on projects that combine analytical thinking with practical impact.
 
-Here are some ideas to get you started:
+I value clarity, consistency, and execution. My goal is to build skills that translate into real-world results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education
+
+MBA / PGDM (Pursuing / Completed)
+Specialization: [, Analytics  / Finance]
+Institution: [Administrative Staff College of India]
+Year: [2025-27]
+
+🧠 Skills & Competencies
+
+Technical Skills
+
+Data Analysis (Excel, Python – basic/intermediate)
+
+Forecasting & Quantitative Methods
+
+Research & Report Writing
+
+Git & GitHub (Version Control)
+
+Business & Professional Skills
+
+Analytical Thinking
+
+Problem Solving
+
+Presentation & Documentation
+
+Time Management
+
+Strategic Planning
